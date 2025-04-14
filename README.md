@@ -1,4 +1,4 @@
-# aep2025
+# AEP 2025 - Análise e Desenvolvimento de Sistemas # 
 Repositório criado para salvar os arquivos referentes a AEP 2025.
 
 # Membros do Grupo # 
